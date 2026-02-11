@@ -1,0 +1,9 @@
+pathway[xpack-llm]
+python-dotenv
+pandas
+requests
+tqdm
+scikit-learn
+sentence-transformers
+transformers
+torch
